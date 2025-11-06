@@ -1,2 +1,2 @@
-# ProyectoSistemaAmeliLozVelLaravel
-En este repositorio se adjuntara el proyecto de sistemas web llamado Amelilozvel por medio de Laravel Herd y Laravel Cloud
+# Proyecto Sistema AmeliLozVel Laravel
+En este repositorio se incluirá el proyecto de sistemas web Amelilozvel, desarrollado utilizando Laravel Herd y Laravel Cloud.
